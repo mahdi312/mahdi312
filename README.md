@@ -1,0 +1,6 @@
+- 👋 Hi, I’m mahdi mostafavi
+- I’m a Back-End(Java) Developer (familiar with Front-End(Angular) and Flutter) 
+- Talented in learning new topics and seeking to gain more experience in group work environments.
+- 👀 I have a humorous character.
+- 🌱 I’m currently learning crypto currencies topics.
+- 📫 Its my email address : mahdi.mostafavi312@gmail.com
