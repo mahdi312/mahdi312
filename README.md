@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mahdi mostafavi
-- I’m a Back-End(Java) Developer (familiar with Front-End(Angular) and Flutter) 
-- Talented in learning new topics and seeking to gain more experience in group work environments.
-- 👀 I have a humorous character.
-- 🌱 I’m currently learning crypto currencies topics.
-- 📫 Its my email address : mahdi.mostafavi312@gmail.com
+- Experienced senior Java developer with over 6 years of expertise in full-stack development. 
+- Proficient in layered and microservice architecture, specializing in Spring, Java EE, and Angular. 
+- Demonstrated excellence in developing and deploying 10+ scalable applications, consistently meeting project deadlines with a strong focus on code test coverage of 95%+. 
+- Exhibited ability to drive project success, leading to a notable 20% increase in client satisfaction and a 15% improvement in team efficiency.
+- 📫 Its my email address : mostafavimahdi312@gmail.com
